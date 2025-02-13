@@ -1,4 +1,4 @@
-🎯🎯🎯# 100-Days-of-Coding-Challenge-in-Javascript 🟨 🧑‍💻📜
+ 🎯🎯🎯# 100-Days-of-Coding-Challenge-in-Javascript 🟨 🧑‍💻📜
 # 100DaysOfCode #JavaScript #CodingChallenge #LearnToCode #WebDevelopment
  ⚡⚡🧗‍♀️ This is a personal commitment to sharpen my JavaScript skills by coding consistently for 100 days.
  Each day, I'll be solving problems, building small projects, or exploring advanced JavaScript concepts. 
