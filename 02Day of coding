@@ -1,0 +1,27 @@
+//////Write a function that is prime or not
+
+function check(num){
+if(num%2==0){
+console.log(num,"THIS IS A PRIME NUMBER")
+}
+else{
+console.log(num,"THIS IS NOT A PRIMW NUMBER")
+}
+}
+
+check(4);  /////console.log>>> it is a prime number
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
