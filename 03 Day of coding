@@ -1,0 +1,32 @@
+////WRITE A JAVASCRIPT FUNCTION THAT PRINTS NUMBERS FROM 1 TO 100.BUT FOR :
+
+**MULTIPLES OF 3,PRINT "FRIZZ" INSTEAD OF THE NUMBER.
+**MULTIPLES OF 5, PRINT "BUZZ"
+**FOR NUMBERS WHICH ARE MULTIPLES OF BOTH 3 AND 5,PRINT  "FRIZZBUZZ"
+
+ function fizzBuzz() {
+   for(let i=1;i<=100;i++){
+     if(i %3 ==0){
+console.log("FIZZBUZZ")
+}
+else if(i % 5 == 0){
+    console.log("FIZZ")
+}
+else if(i % 3 == 0){
+console.log("Buzz")
+}
+else{
+console.log(i)
+}
+
+
+
+
+
+
+
+
+
+
+
+
